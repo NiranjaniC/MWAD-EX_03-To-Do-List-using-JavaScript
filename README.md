@@ -151,7 +151,7 @@ li button {
   justify-content: space-between;
 }
 ```
-##INDEX.JS
+## INDEX.JS
 ```
 // Select DOM elements
 const taskInput = document.getElementById("taskInput");
